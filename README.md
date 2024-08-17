@@ -43,7 +43,7 @@ git commit -m "first commit"
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 dsad
 
-<<<<<<< HEAD
+HEAD
 
 ### Parte II (Trabajo en Parejas)
 ![alt text](image-7.png)
@@ -51,13 +51,15 @@ dsad
 ![alt text](image-6.png)
 
 
-### PARTE II (Trabajo en parejas)
-
 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
-
-![alt text](image-7.png)
 
 4. El colaborador acepta la invitación al repositorio
 
-hoka
->>>>>>> a5ec88534bfc88506dbb21d7d924e10e5c7512b3
+5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo. 
+
+6. que sucedio ?
+    salto el siguiente error que genero un conflicto de la fusion con la linea de comando
+
+![alt text](image-7.png)
+
+
