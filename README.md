@@ -54,3 +54,5 @@ git commit -m "first commit"
 4. El colaborador acepta la invitación al repositorio
 
 okeyyyy
+
+![alt text](image-8.png)
