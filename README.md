@@ -41,18 +41,16 @@ git commit -m "first commit"
 ![alt text](image-5.png)
 
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+dsad
 
+HEAD
+
+### Parte II (Trabajo en Parejas)
+![alt text](image-7.png)
+=======
 ![alt text](image-6.png)
 
 
-### PARTE II (Trabajo en parejas)
-
 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
 
-![alt text](image-7.png)
-
 4. El colaborador acepta la invitación al repositorio
-
-okeyyyy
-
-![alt text](image-8.png)
