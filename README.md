@@ -54,3 +54,12 @@ HEAD
 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
 
 4. El colaborador acepta la invitación al repositorio
+
+5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo. 
+
+6. que sucedio ?
+    salto el siguiente error que genero un conflicto de la fusion con la linea de comando
+
+![alt text](image-7.png)
+
+8. sadsad
