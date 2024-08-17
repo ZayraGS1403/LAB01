@@ -28,3 +28,17 @@ git commit: captura una instantánea de los cambios preparados en ese momento de
 6. Configura el repositorio local con el repositorio remoto.
 
 git commit -m "first commit"
+
+![alt text](image-2.png)
+![alt text](image-3.png)
+
+7. Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto.
+
+![alt text](image-4.png)
+
+8. Configura el correo en git local de manera correcta
+
+![alt text](image-5.png)
+
+9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+
