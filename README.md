@@ -53,6 +53,8 @@ HEAD
 
 2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
 
+![alt text](<Screenshot 2024-08-17 113651.png>)
+
 4. El colaborador acepta la invitación al repositorio
 
 ![alt text](image-9.png) 
@@ -65,4 +67,23 @@ HEAD
 
 ![alt text](image-7.png)
 
-8. 
+8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+
+![alt text](<Screenshot 2024-08-17 121549.png>)
+
+9. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en Visual
+
+![alt text](<Screenshot 2024-08-17 121614.png>)
+
+
+### PARTE III (Trabajo de a parejas)
+
+1. ¿Hay una mejor forma de trabajar con git para no tener conflictos?
+Si, utilizando las ramas se evitan los conflictos o haciendo pull request.
+
+2. ¿Qué es y como funciona el Pull Request?
+
+Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork. En el caso que nos ocupa, el usuario  le enviará la petición  para que este último incorpore los commits que tiene en su fork.
+
+3. Creen una rama cada uno y suban sus cambios
+![alt text](image-10.png)
