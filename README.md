@@ -43,7 +43,6 @@ git commit -m "first commit"
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 dsad
 
-jhiuh
-dsad
-sadsa
-sadsad
+
+### Parte II (Trabajo en Parejas)
+![alt text](image-7.png)
