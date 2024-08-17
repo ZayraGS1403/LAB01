@@ -87,3 +87,13 @@ Un pull request es una petición que el propietario de un fork de un repositorio
 
 3. Creen una rama cada uno y suban sus cambios
 ![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+
+![alt text](image-12.png)
+
+5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+
+![alt text](image-13.png)
