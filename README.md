@@ -86,6 +86,21 @@ Si, utilizando las ramas se evitan los conflictos o haciendo pull request.
 Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork. En el caso que nos ocupa, el usuario  le enviará la petición  para que este último incorpore los commits que tiene en su fork.
 
 3. Creen una rama cada uno y suban sus cambios
+HEAD
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+
+![alt text](image-12.png)
+
+5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+
+![alt text](image-13.png)
+
 ![alt text](image-11.png)
 ![alt text](image-12.png)
 ![alt text](image-10.png)
+
+dddd
