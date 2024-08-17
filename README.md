@@ -55,11 +55,14 @@ HEAD
 
 4. El colaborador acepta la invitación al repositorio
 
-5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo. 
+![alt text](image-9.png) 
+
+5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+
 
 6. que sucedio ?
     salto el siguiente error que genero un conflicto de la fusion con la linea de comando
 
 ![alt text](image-7.png)
 
-8. sadsad
+8. 
