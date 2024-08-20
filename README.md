@@ -1,7 +1,7 @@
  # LABORATORIO 01
- ### Zayra Gutierrez
-
- Cambio realizado para visualizar el repositorio
+“INTEGRANTES
+Andres Serrato
+Zayra Gutierrez
 
  ### PARTE I (Trabajo Individual).
 1. Crea un repositorio localmente.
@@ -43,11 +43,15 @@ git commit -m "first commit"
 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 dsad
 
-HEAD
+Todo esta perfecto en el repositorio.
 
 ### Parte II (Trabajo en Parejas)
+
+1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
+
+el owner será el repositrio de Zayra y el colaborador será Andres.
 ![alt text](image-7.png)
-=======
+
 ![alt text](image-6.png)
 
 
@@ -63,7 +67,7 @@ HEAD
 
 
 6. que sucedio ?
-    salto el siguiente error que genero un conflicto de la fusion con la linea de comando
+salto el siguiente error que genero un conflicto de la fusion con la linea de comando
 
 ![alt text](image-7.png)
 
@@ -86,7 +90,7 @@ Si, utilizando las ramas se evitan los conflictos o haciendo pull request.
 Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork. En el caso que nos ocupa, el usuario  le enviará la petición  para que este último incorpore los commits que tiene en su fork.
 
 3. Creen una rama cada uno y suban sus cambios
-HEAD
+   
 ![alt text](image-10.png)
 
 ![alt text](image-11.png)
